@@ -19,4 +19,5 @@ If you have an <i>awesome</i> bot you would like to add to this list, submit a P
 ### Mapping
 * []()
 ### Shopping
+* [Bing Pong](http://bing-pong.com) - A Bing Rewards bot to make money for shopping!
 * [Kip](http://kipthis.com/) - An AI chatbot for Group Shopping!
