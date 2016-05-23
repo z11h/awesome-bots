@@ -13,10 +13,19 @@ If you have an <i>awesome</i> bot you would like to add to this list, submit a P
 ---
 ## Chat Bots
 ### Funny Bots
-* []()
+* [Placeholder](#)
+
 ### Reminders
-* [](http://www.coffeesbot.com/)
+* [The Coffee's Bot](http://www.coffeesbot.com/) - Finds you the nearest Coffee shop!
+
 ### Mapping
-* []()
+* [Placeholder](#)
+
 ### Shopping
 * [Kip](http://kipthis.com/) - An AI chatbot for Group Shopping!
+
+### Health
+* [Placeholder](#)
+
+### Finance
+* [Placeholder](#)
