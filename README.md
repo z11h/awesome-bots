@@ -40,3 +40,6 @@ If you have an <i>awesome</i> bot you would like to add to this list, submit a P
 
 ### Finance
 * [Placeholder](#)
+
+### Debug
+* [ChatbotProxy](http://www.chatbotproxy.com/) - Extensible proxy between your chatbot and providers. It helps debug incoming/outgoing requests using `curl`. And it keeps per page metrics for Facebook Messenger bot apps.
